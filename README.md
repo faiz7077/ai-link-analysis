@@ -234,7 +234,7 @@ The tests cover URL normalization, the SSRF block list (IPv4/IPv6, metadata, red
 
 ### Vercel (live demo)
 
-`api/index.py` exposes the FastAPI app as a Vercel Python function, and `vercel.json` routes every path to it, so `/docs`, `/health` and `/link-analysis` all work.
+Vercel's zero-config FastAPI support detects the `app` object in `app/main.py` and routes every request to it, so `/docs`, `/health` and `/link-analysis` all work. `vercel.json` only raises the function's `maxDuration`.
 
 1. Push this repo to GitHub.
 2. In Vercel, choose Add New → Project and import the repo. No build settings are needed.
