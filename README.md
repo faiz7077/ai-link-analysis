@@ -1,5 +1,7 @@
 # AI Website Link Analysis API
 
+**Live demo:** [ai-link-analysis-sand.vercel.app/docs](https://ai-link-analysis-sand.vercel.app/docs) · `POST https://ai-link-analysis-sand.vercel.app/link-analysis`
+
 A FastAPI service that takes any public website URL, extracts its real content, and uses **Google Gemini** to return five sections of structured, website-specific insights:
 
 1. **Competitor vs your brand**
@@ -247,7 +249,7 @@ Serverless caveats: `maxDuration` is set to 60 s, since an analysis takes about 
 
 The app is also containerized (`Dockerfile`) and includes a `render.yaml` blueprint. In Render, choose New → Blueprint, select the repo and set `GEMINI_API_KEY`. Any Docker host works the same way, for example Railway, Fly.io or Google Cloud Run. The app reads `$PORT`.
 
-> **Live demo:** _add URL here after deploying_
+> **Live demo:** https://ai-link-analysis-sand.vercel.app/docs (Swagger UI). Health check: https://ai-link-analysis-sand.vercel.app/health
 
 ---
 
