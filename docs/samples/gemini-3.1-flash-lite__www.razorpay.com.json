@@ -1,0 +1,357 @@
+{
+  "brand": {
+    "name": "Razorpay",
+    "category": "Online Payments & Business Banking Infrastructure",
+    "summary": "Razorpay is an all-in-one finance platform for businesses in India, providing a comprehensive suite of tools including payment gateways, automated payouts, business banking via RazorpayX, and payroll solutions. It serves a wide range of industries, from e-commerce and SaaS to freelancers, by offering AI-native payment flows and credit facilities."
+  },
+  "competitor_analysis": {
+    "brand_name": "Razorpay",
+    "brand_overview": "India's leading payment solution and finance platform offering a full-stack suite for online payments, business banking, and payroll.",
+    "business_category": "Fintech / Payment Gateway",
+    "main_products_and_services": [
+      "Payment Gateway",
+      "RazorpayX Business Banking",
+      "Payouts",
+      "Payroll Solutions",
+      "Capital & Credit"
+    ],
+    "competitors": [
+      {
+        "name": "Cashfree Payments",
+        "website": "https://www.cashfree.com/",
+        "main_offering": "Payment gateway and payout solutions",
+        "target_market": "SMEs, Enterprises, and Startups in India",
+        "strengths": [
+          "Strong focus on payout APIs",
+          "Competitive pricing",
+          "Good developer documentation"
+        ],
+        "weaknesses_or_gaps": [
+          "Less comprehensive banking suite compared to RazorpayX",
+          "Smaller brand recognition"
+        ],
+        "source": "ai_suggested"
+      },
+      {
+        "name": "Paytm",
+        "website": "https://business.paytm.com/",
+        "main_offering": "Payment gateway and consumer wallet",
+        "target_market": "Mass market, retail, and online businesses",
+        "strengths": [
+          "Massive consumer user base",
+          "Strong offline POS presence"
+        ],
+        "weaknesses_or_gaps": [
+          "Complex merchant onboarding",
+          "Focus is broader than just B2B fintech"
+        ],
+        "source": "ai_suggested"
+      },
+      {
+        "name": "Stripe",
+        "website": "https://stripe.com/",
+        "main_offering": "Global payment processing infrastructure",
+        "target_market": "Global internet businesses and SaaS",
+        "strengths": [
+          "Superior developer experience",
+          "Global reach",
+          "Advanced fraud detection"
+        ],
+        "weaknesses_or_gaps": [
+          "Higher pricing for Indian domestic transactions",
+          "Less localized for Indian specific compliance needs"
+        ],
+        "source": "ai_suggested"
+      }
+    ],
+    "comparison_table": [
+      {
+        "aspect": "Core Offering",
+        "your_brand": "Full-stack payment & banking",
+        "competitor": "Payment gateway focused",
+        "competitor_name": "Cashfree Payments"
+      },
+      {
+        "aspect": "Business Banking",
+        "your_brand": "Comprehensive (RazorpayX)",
+        "competitor": "Limited",
+        "competitor_name": "Cashfree Payments"
+      },
+      {
+        "aspect": "Target Market",
+        "your_brand": "Startups to Enterprises",
+        "competitor": "SMEs and Enterprises",
+        "competitor_name": "Cashfree Payments"
+      },
+      {
+        "aspect": "Payroll",
+        "your_brand": "Integrated Payroll solution",
+        "competitor": "Not a core offering",
+        "competitor_name": "Cashfree Payments"
+      },
+      {
+        "aspect": "Developer Tools",
+        "your_brand": "Extensive API & SDK support",
+        "competitor": "Strong API support",
+        "competitor_name": "Cashfree Payments"
+      }
+    ],
+    "your_competitive_advantages": [
+      "AI-native payment flows",
+      "Integrated business banking (RazorpayX)",
+      "Comprehensive payroll and compliance suite",
+      "Strong focus on startup-specific credit and loans",
+      "Advanced multi-bank routing for high success rates"
+    ],
+    "market_positioning_opportunities": [
+      "Expand deeper into enterprise-grade ERP integrations",
+      "Leverage AI-native features to capture the growing AI-startup market",
+      "Strengthen cross-border payment solutions for global expansion"
+    ]
+  },
+  "target_search_queries": [
+    {
+      "query": "best payment gateway for startups in India",
+      "platforms": [
+        "Google"
+      ],
+      "primary_platform": "Google",
+      "intent": "Service Search",
+      "business_relevance": "High-intent search for payment infrastructure",
+      "target_audience": "Startup founders and CTOs"
+    },
+    {
+      "query": "how to accept international payments for small business",
+      "platforms": [
+        "Facebook"
+      ],
+      "primary_platform": "Facebook",
+      "intent": "Inspiration",
+      "business_relevance": "Educating small business owners on global reach",
+      "target_audience": "Small business owners"
+    },
+    {
+      "query": "e-commerce payment solutions for D2C brands",
+      "platforms": [
+        "Instagram"
+      ],
+      "primary_platform": "Instagram",
+      "intent": "Business Discovery",
+      "business_relevance": "Visualizing seamless checkout experiences",
+      "target_audience": "D2C brand managers"
+    },
+    {
+      "query": "automate payroll and compliance for Indian startups",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "primary_platform": "LinkedIn",
+      "intent": "B2B Search",
+      "business_relevance": "Targeting HR and Finance decision makers",
+      "target_audience": "HR Managers and Finance Heads"
+    },
+    {
+      "query": "Razorpay vs Cashfree payment gateway comparison",
+      "platforms": [
+        "X"
+      ],
+      "primary_platform": "X",
+      "intent": "Comparison",
+      "business_relevance": "Addressing competitor evaluation",
+      "target_audience": "Tech-savvy business owners"
+    }
+  ],
+  "seo_improvements": {
+    "primary_keyword": "Payment Gateway India",
+    "secondary_keywords": [
+      "Business Banking",
+      "Automated Payroll",
+      "Payment Links",
+      "UPI Payments"
+    ],
+    "long_tail_keywords": [
+      "best payment gateway for startups",
+      "how to accept international payments in India",
+      "automated payroll software for startups"
+    ],
+    "business_keywords": [
+      "RazorpayX",
+      "Payouts",
+      "Payment Gateway",
+      "Business Banking"
+    ],
+    "current_title": "Razorpay - Best Payment Solution for Online Payments India",
+    "recommended_title": "Razorpay: Best Payment Gateway & Business Banking in India",
+    "title_rationale": "Includes primary keyword and brand name while highlighting the dual value proposition of payments and banking.",
+    "current_meta_description": "Online Payments India: Start Accepting Payments Instantly with Razorpay's Payment Suite, which Supports Netbanking, Credit Card & Debit Cards, UPI etc.",
+    "recommended_meta_description": "Accept payments instantly with Razorpay. India's top payment gateway for UPI, cards, and netbanking. Automate payroll and business banking with RazorpayX.",
+    "supporting_content": [
+      {
+        "type": "Comparison page",
+        "title": "Razorpay vs Competitors: Why Choose Us",
+        "target_keyword": "payment gateway comparison",
+        "reason": "Captures high-intent traffic evaluating providers."
+      },
+      {
+        "type": "Industry page",
+        "title": "Payment Solutions for E-commerce",
+        "target_keyword": "e-commerce payment gateway",
+        "reason": "Targets a high-volume vertical mentioned on the site."
+      },
+      {
+        "type": "Blog topic",
+        "title": "How to Automate Payroll for Startups",
+        "target_keyword": "automated payroll software",
+        "reason": "Positions the brand as a thought leader in business operations."
+      },
+      {
+        "type": "Case study",
+        "title": "How D2C Brands Scale with Razorpay",
+        "target_keyword": "D2C payment solutions",
+        "reason": "Provides social proof for the target segment."
+      },
+      {
+        "type": "FAQ",
+        "title": "Razorpay Pricing and Charges Explained",
+        "target_keyword": "payment gateway charges",
+        "reason": "Addresses common user friction points regarding fees."
+      }
+    ],
+    "technical_observations": [
+      "Meta description is slightly short of optimal length.",
+      "Multiple H1 tags detected in content structure.",
+      "Heavy reliance on 'Know More' CTA text which is poor for SEO accessibility."
+    ]
+  },
+  "top_services": [
+    {
+      "service_name": "Payment Gateway",
+      "description": "Accept payments via UPI, cards, netbanking, and wallets with high success rates.",
+      "target_industry": "E-commerce, SaaS, Education",
+      "target_customer": "Online businesses",
+      "main_benefit": "Seamless checkout experience and high success rates",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "RazorpayX Business Banking",
+      "description": "Current accounts with automated banking, vendor payments, and tax payments.",
+      "target_industry": "Startups, SMEs",
+      "target_customer": "Business owners",
+      "main_benefit": "Time and cost savings on financial operations",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "Payouts",
+      "description": "Automated payouts to vendors, employees, and customers via API.",
+      "target_industry": "Fintech, E-commerce",
+      "target_customer": "Operations managers",
+      "main_benefit": "Instant, reliable fund transfers",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "Payroll Solutions",
+      "description": "Automated payroll, compliance filing (TDS, PF, ESI), and salary transfers.",
+      "target_industry": "Startups, Enterprises",
+      "target_customer": "HR and Finance teams",
+      "main_benefit": "Compliance and efficiency in salary management",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "Capital & Credit",
+      "description": "Collateral-free credit lines and corporate cards for business spending.",
+      "target_industry": "Startups, SMEs",
+      "target_customer": "Founders",
+      "main_benefit": "Improved cash flow management",
+      "evidence": "from_website"
+    }
+  ],
+  "target_audience": {
+    "primary_audience": [
+      "Startup Founders",
+      "Small Business Owners"
+    ],
+    "secondary_audience": [
+      "Finance Managers",
+      "HR Professionals",
+      "Freelancers"
+    ],
+    "industries": [
+      "E-commerce",
+      "SaaS",
+      "Education",
+      "BFSI",
+      "Freelancing"
+    ],
+    "business_types": [
+      "D2C Brands",
+      "Tech Startups",
+      "Educational Institutions",
+      "Service Providers"
+    ],
+    "customer_profiles": [
+      "Early-stage startup founders needing banking",
+      "E-commerce store owners needing payment gateways",
+      "HR heads needing payroll automation"
+    ],
+    "geographic_focus": "India",
+    "customer_needs_and_challenges": [
+      "High transaction failure rates",
+      "Complex payroll compliance",
+      "Cash flow management",
+      "Need for integrated banking and payments"
+    ],
+    "customer_interests": [
+      "Business growth",
+      "Financial automation",
+      "Startup funding",
+      "Digital transformation"
+    ],
+    "recommended_marketing_segments": [
+      {
+        "segment": "Early-stage Startups",
+        "business_type": "Tech Startups",
+        "requirement": "Integrated banking and payroll",
+        "recommended_channels": [
+          "LinkedIn",
+          "Google"
+        ]
+      },
+      {
+        "segment": "D2C E-commerce",
+        "business_type": "Retail",
+        "requirement": "High conversion payment gateway",
+        "recommended_channels": [
+          "Instagram",
+          "Facebook"
+        ]
+      },
+      {
+        "segment": "Freelancers",
+        "business_type": "Service Providers",
+        "requirement": "Easy payment links and invoicing",
+        "recommended_channels": [
+          "Instagram",
+          "X"
+        ]
+      },
+      {
+        "segment": "SaaS Providers",
+        "business_type": "Tech",
+        "requirement": "Subscription management and global payments",
+        "recommended_channels": [
+          "LinkedIn",
+          "Google"
+        ]
+      },
+      {
+        "segment": "Educational Institutions",
+        "business_type": "Education",
+        "requirement": "Fee collection automation",
+        "recommended_channels": [
+          "Facebook",
+          "Google"
+        ]
+      }
+    ]
+  }
+}

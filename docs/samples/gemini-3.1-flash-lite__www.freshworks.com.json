@@ -1,0 +1,339 @@
+{
+  "brand": {
+    "name": "Freshworks",
+    "category": "AI-powered IT Service Management (ITSM) and Customer Service Software",
+    "summary": "Freshworks provides a unified, AI-powered platform designed to streamline IT and employee service management. By leveraging 'Freddy AI' for automation and actionable insights, the company helps agile enterprises reduce operational complexity, improve resolution speeds, and scale support across IT, HR, and customer service teams."
+  },
+  "competitor_analysis": {
+    "brand_name": "Freshworks",
+    "brand_overview": "A global software company offering a unified service management platform that integrates IT, HR, and customer support workflows using AI.",
+    "business_category": "ITSM and Customer Experience Software",
+    "main_products_and_services": [
+      "Freshservice (ITSM)",
+      "Freddy AI Copilot and Agents",
+      "Employee Service Management (ESM)",
+      "Customer Service Software",
+      "MSP Mode"
+    ],
+    "competitors": [
+      {
+        "name": "ServiceNow",
+        "website": "https://www.servicenow.com",
+        "main_offering": "Enterprise-grade IT workflow automation",
+        "target_market": "Large global enterprises",
+        "strengths": [
+          "Extensive feature set",
+          "Deep enterprise integration",
+          "Strong market dominance"
+        ],
+        "weaknesses_or_gaps": [
+          "High implementation complexity",
+          "Expensive licensing",
+          "Steep learning curve"
+        ],
+        "source": "ai_suggested"
+      },
+      {
+        "name": "Zendesk",
+        "website": "https://www.zendesk.com",
+        "main_offering": "Customer service and engagement platform",
+        "target_market": "Mid-market to enterprise businesses",
+        "strengths": [
+          "User-friendly interface",
+          "Strong omnichannel support",
+          "Large marketplace of apps"
+        ],
+        "weaknesses_or_gaps": [
+          "Limited native ITIL-aligned ITSM features compared to Freshservice",
+          "Pricing can scale quickly"
+        ],
+        "source": "ai_suggested"
+      },
+      {
+        "name": "Jira Service Management",
+        "website": "https://www.atlassian.com/software/jira/service-management",
+        "main_offering": "ITSM and service desk software",
+        "target_market": "Software development and IT teams",
+        "strengths": [
+          "Tight integration with Jira Software",
+          "Strong developer ecosystem",
+          "Flexible pricing"
+        ],
+        "weaknesses_or_gaps": [
+          "Can be complex to configure for non-technical teams",
+          "Less focus on general employee service management"
+        ],
+        "source": "ai_suggested"
+      }
+    ],
+    "comparison_table": [
+      {
+        "aspect": "Implementation Speed",
+        "your_brand": "80% go live in under 90 days",
+        "competitor": "Often requires months to years",
+        "competitor_name": "ServiceNow"
+      },
+      {
+        "aspect": "AI Integration",
+        "your_brand": "Freddy AI included/native",
+        "competitor": "Often requires separate modules",
+        "competitor_name": "ServiceNow"
+      },
+      {
+        "aspect": "Target Market",
+        "your_brand": "Agile enterprises",
+        "competitor": "Large-scale global enterprises",
+        "competitor_name": "ServiceNow"
+      },
+      {
+        "aspect": "Ease of Use",
+        "your_brand": "High, focused on frictionless experience",
+        "competitor": "Moderate, requires specialized admins",
+        "competitor_name": "ServiceNow"
+      },
+      {
+        "aspect": "Pricing Model",
+        "your_brand": "Transparent, tiered per agent",
+        "competitor": "Complex, custom enterprise contracts",
+        "competitor_name": "ServiceNow"
+      }
+    ],
+    "your_competitive_advantages": [
+      "Rapid time-to-value with 90-day implementation cycles",
+      "Unified platform for both IT and non-IT (HR/Finance) service",
+      "Native, domain-specific AI (Freddy AI) that works from day one",
+      "High ROI with 168% reported payback"
+    ],
+    "market_positioning_opportunities": [
+      "Targeting mid-market companies frustrated by the complexity of legacy ITSM tools",
+      "Expanding ESM (Employee Service Management) adoption in non-technical departments",
+      "Leveraging Gartner Magic Quadrant status to build trust with enterprise buyers"
+    ]
+  },
+  "target_search_queries": [
+    {
+      "query": "AI-powered ITSM software for agile enterprises",
+      "platforms": [
+        "Google"
+      ],
+      "primary_platform": "Google",
+      "intent": "Service Search",
+      "business_relevance": "Directly targets the core product and ideal customer profile.",
+      "target_audience": "IT Managers"
+    },
+    {
+      "query": "How to reduce IT support costs with automation",
+      "platforms": [
+        "Facebook"
+      ],
+      "primary_platform": "Facebook",
+      "intent": "Inspiration",
+      "business_relevance": "Addresses the pain point of 'Lower costs, minimum risks' mentioned on the site.",
+      "target_audience": "IT Directors"
+    },
+    {
+      "query": "Freshworks employee experience platform demo",
+      "platforms": [
+        "Instagram"
+      ],
+      "primary_platform": "Instagram",
+      "intent": "Business Discovery",
+      "business_relevance": "Captures users looking for visual proof of the platform's capabilities.",
+      "target_audience": "HR Operations Managers"
+    },
+    {
+      "query": "Best ITSM tools for scaling IT operations 2025",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "primary_platform": "LinkedIn",
+      "intent": "B2B Search",
+      "business_relevance": "Aligns with the 'Freshservice Benchmark Report 2025' authority content.",
+      "target_audience": "CTOs and IT Leaders"
+    },
+    {
+      "query": "Gartner Magic Quadrant ITSM leaders 2026",
+      "platforms": [
+        "X"
+      ],
+      "primary_platform": "X",
+      "intent": "Comparison",
+      "business_relevance": "Leverages the brand's recent industry recognition.",
+      "target_audience": "IT Decision Makers"
+    }
+  ],
+  "seo_improvements": {
+    "primary_keyword": "AI-powered ITSM software",
+    "secondary_keywords": [
+      "employee service management",
+      "IT service management platform",
+      "Freddy AI",
+      "ITSM automation"
+    ],
+    "long_tail_keywords": [
+      "unified platform for IT and employee service",
+      "reduce IT downtime with AI",
+      "ITSM software for agile enterprises"
+    ],
+    "business_keywords": [
+      "Freshservice",
+      "ITIL practices",
+      "service desk automation"
+    ],
+    "current_title": "AI-Powered Customer & Employee Service Software | Freshworks",
+    "recommended_title": "AI-Powered ITSM Software & Employee Service | Freshworks",
+    "title_rationale": "The new title prioritizes the primary keyword 'ITSM software' while maintaining the brand identity and value proposition within the 60-character limit.",
+    "current_meta_description": "Freshworks provides AI-powered ITSM and customer service software to deliver scalable employee and customer experiences designed to boost productivity, streamline operations, and drive growth.",
+    "recommended_meta_description": "Scale your support with Freshworks' AI-powered ITSM software. Boost productivity, reduce downtime, and streamline IT and employee service operations today.",
+    "supporting_content": [
+      {
+        "type": "Comparison page",
+        "title": "Freshworks vs. ServiceNow: Why Agile Teams Switch",
+        "target_keyword": "Freshworks vs ServiceNow",
+        "reason": "Captures high-intent traffic comparing the two market leaders."
+      },
+      {
+        "type": "Case study",
+        "title": "How Databricks Scaled IT Operations with Freshservice",
+        "target_keyword": "ITSM scaling case study",
+        "reason": "Provides social proof and demonstrates real-world application."
+      }
+    ],
+    "technical_observations": [
+      "Heavy reliance on JavaScript for content rendering may impact SEO indexing.",
+      "Potential for duplicate content issues across multiple 'Read the story' links.",
+      "Ensure H1 tags are unique and descriptive on sub-pages."
+    ]
+  },
+  "top_services": [
+    {
+      "service_name": "Freshservice (ITSM)",
+      "description": "A unified platform for IT service management, asset visibility, and incident resolution.",
+      "target_industry": "IT & Technology",
+      "target_customer": "IT Managers",
+      "main_benefit": "Reduced downtime and faster incident resolution.",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "Freddy AI Copilot",
+      "description": "AI-powered assistance integrated into agent workflows to speed up triage and resolution.",
+      "target_industry": "All",
+      "target_customer": "Support Agents",
+      "main_benefit": "Improved agent productivity and faster response times.",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "Employee Service Management (ESM)",
+      "description": "Extending service management capabilities to HR, Finance, and Legal teams.",
+      "target_industry": "Corporate Operations",
+      "target_customer": "HR and Operations Managers",
+      "main_benefit": "Unified hub for all employee needs and consistent experience.",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "Customer Service Software",
+      "description": "AI-powered tools to engage customers, capture requests, and automate service operations.",
+      "target_industry": "Customer Support",
+      "target_customer": "Customer Service Managers",
+      "main_benefit": "Strengthened customer relationships and higher CSAT.",
+      "evidence": "from_website"
+    },
+    {
+      "service_name": "MSP Mode",
+      "description": "Managed Service Provider mode to manage multiple client portals from a single solution.",
+      "target_industry": "Managed IT Services",
+      "target_customer": "MSP Business Owners",
+      "main_benefit": "Efficient management of multiple client tickets and portals.",
+      "evidence": "from_website"
+    }
+  ],
+  "target_audience": {
+    "primary_audience": [
+      "IT Managers",
+      "IT Service Desk Leads",
+      "Customer Support Managers"
+    ],
+    "secondary_audience": [
+      "HR Operations Managers",
+      "CTOs",
+      "MSP Business Owners"
+    ],
+    "industries": [
+      "Technology",
+      "Managed Services",
+      "Corporate Services",
+      "Retail",
+      "Healthcare"
+    ],
+    "business_types": [
+      "Agile Enterprises",
+      "Mid-market Companies",
+      "Managed Service Providers"
+    ],
+    "customer_profiles": [
+      "The Efficiency Seeker",
+      "The Scaling Enterprise Leader",
+      "The IT Modernizer"
+    ],
+    "geographic_focus": "Not specified",
+    "customer_needs_and_challenges": [
+      "Reducing operational complexity",
+      "Minimizing system downtime",
+      "Scaling support without increasing costs",
+      "Improving first-contact resolution rates"
+    ],
+    "customer_interests": [
+      "AI automation in IT",
+      "ITIL best practices",
+      "Employee experience optimization",
+      "Digital transformation"
+    ],
+    "recommended_marketing_segments": [
+      {
+        "segment": "Mid-market IT Leaders",
+        "business_type": "Mid-market",
+        "requirement": "Needs easy-to-use, fast-to-deploy ITSM.",
+        "recommended_channels": [
+          "Google",
+          "LinkedIn"
+        ]
+      },
+      {
+        "segment": "Enterprise HR/Operations",
+        "business_type": "Enterprise",
+        "requirement": "Needs unified employee service portal.",
+        "recommended_channels": [
+          "LinkedIn",
+          "Google"
+        ]
+      },
+      {
+        "segment": "Managed Service Providers",
+        "business_type": "MSP",
+        "requirement": "Needs multi-tenant client management.",
+        "recommended_channels": [
+          "Google",
+          "X"
+        ]
+      },
+      {
+        "segment": "Customer Support Leads",
+        "business_type": "General Business",
+        "requirement": "Needs AI-powered agent assistance.",
+        "recommended_channels": [
+          "Facebook",
+          "Instagram"
+        ]
+      },
+      {
+        "segment": "CTOs",
+        "business_type": "Enterprise",
+        "requirement": "Needs ROI-focused, scalable infrastructure.",
+        "recommended_channels": [
+          "LinkedIn",
+          "X"
+        ]
+      }
+    ]
+  }
+}

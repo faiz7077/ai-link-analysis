@@ -1,0 +1,28 @@
+$ POST /link-analysis {"url":"http://169.254.169.254/latest/meta-data"}
+{"success":false,"error":{"code":"blocked_url","message":"Access to private or internal network addresses is not allowed."}}
+[HTTP 400]
+
+$ POST /link-analysis {"url":"http://localhost:8000/admin"}
+{"success":false,"error":{"code":"invalid_url","message":"Port 8000 is not allowed."}}
+[HTTP 400]
+
+$ POST /link-analysis {"url":"ftp://example.com"}
+{"success":false,"error":{"code":"invalid_url","message":"Unsupported URL scheme 'ftp'. Use http or https."}}
+[HTTP 400]
+
+$ POST /link-analysis {"url":"not a url"}
+{"success":false,"error":{"code":"invalid_url","message":"URL must contain a fully qualified domain name."}}
+[HTTP 400]
+
+$ POST /link-analysis {}
+{"success":false,"error":{"code":"invalid_request","message":"url: Field required"}}
+[HTTP 422]
+
+$ POST /link-analysis {"url":"https://thisdomaindoesnotexist-xyz123.com"}
+{"success":false,"error":{"code":"invalid_url","message":"Could not resolve hostname 'thisdomaindoesnotexist-xyz123.com'."}}
+[HTTP 400]
+
+$ POST /link-analysis {"url":"https://www.canva.com"}
+{"success":false,"error":{"code":"website_unreachable","message":"Website returned HTTP 403."}}
+[HTTP 422]
+

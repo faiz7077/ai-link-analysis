@@ -1,0 +1,302 @@
+[
+  {
+    "model": "gemini-3.8-flash",
+    "url": "https://stripe.com",
+    "ok": true,
+    "latency_ms": 32127,
+    "input_tokens": 3237,
+    "output_tokens": 3884,
+    "cost_usd": 0.016993,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "url": "https://www.zoho.com/crm/",
+    "ok": true,
+    "latency_ms": 32868,
+    "input_tokens": 3299,
+    "output_tokens": 3960,
+    "cost_usd": 0.017324,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "url": "https://www.freshworks.com",
+    "ok": true,
+    "latency_ms": 27763,
+    "input_tokens": 3169,
+    "output_tokens": 4002,
+    "cost_usd": 0.017384,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "url": "https://www.shopify.com",
+    "ok": true,
+    "latency_ms": 34323,
+    "input_tokens": 3481,
+    "output_tokens": 4149,
+    "cost_usd": 0.01817,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "url": "https://www.razorpay.com",
+    "ok": true,
+    "latency_ms": 73330,
+    "input_tokens": 3339,
+    "output_tokens": 3832,
+    "cost_usd": 0.016874,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "url": "https://stripe.com",
+    "ok": true,
+    "latency_ms": 11519,
+    "input_tokens": 3237,
+    "output_tokens": 3281,
+    "cost_usd": 0.009174,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "url": "https://www.zoho.com/crm/",
+    "ok": true,
+    "latency_ms": 8587,
+    "input_tokens": 3299,
+    "output_tokens": 3293,
+    "cost_usd": 0.009222,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "url": "https://www.freshworks.com",
+    "ok": true,
+    "latency_ms": 9211,
+    "input_tokens": 3169,
+    "output_tokens": 3235,
+    "cost_usd": 0.009038,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "url": "https://www.shopify.com",
+    "ok": true,
+    "latency_ms": 8286,
+    "input_tokens": 3481,
+    "output_tokens": 3174,
+    "cost_usd": 0.008979,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "url": "https://www.razorpay.com",
+    "ok": true,
+    "latency_ms": 8479,
+    "input_tokens": 3339,
+    "output_tokens": 3240,
+    "cost_usd": 0.009102,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "url": "https://stripe.com",
+    "ok": true,
+    "latency_ms": 11709,
+    "input_tokens": 3237,
+    "output_tokens": 3906,
+    "cost_usd": 0.006668,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "url": "https://www.zoho.com/crm/",
+    "ok": true,
+    "latency_ms": 13026,
+    "input_tokens": 3299,
+    "output_tokens": 4422,
+    "cost_usd": 0.007458,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "url": "https://www.freshworks.com",
+    "ok": true,
+    "latency_ms": 12491,
+    "input_tokens": 3169,
+    "output_tokens": 4302,
+    "cost_usd": 0.007245,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "url": "https://www.shopify.com",
+    "ok": true,
+    "latency_ms": 11857,
+    "input_tokens": 3481,
+    "output_tokens": 4057,
+    "cost_usd": 0.006956,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "url": "https://www.razorpay.com",
+    "ok": true,
+    "latency_ms": 10099,
+    "input_tokens": 3339,
+    "output_tokens": 3179,
+    "cost_usd": 0.005603,
+    "checks": {
+      "5_queries": true,
+      "all_5_platforms": true,
+      "3plus_competitors": true,
+      "5_services": true,
+      "title_50_60": true,
+      "meta_140_160": true,
+      "no_volume_claims": true
+    },
+    "score": "7/7",
+    "grounded_services": 5
+  }
+]
