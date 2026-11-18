@@ -232,14 +232,20 @@ The tests cover URL normalization, the SSRF block list (IPv4/IPv6, metadata, red
 
 ## Deployment
 
-The app is containerized (`Dockerfile`) and includes a `render.yaml` blueprint for **Render's free tier**:
+### Vercel (live demo)
+
+`api/index.py` exposes the FastAPI app as a Vercel Python function, and `vercel.json` routes every path to it, so `/docs`, `/health` and `/link-analysis` all work.
 
 1. Push this repo to GitHub.
-2. In Render, choose New → Blueprint and select the repo.
-3. Set `GEMINI_API_KEY` in the dashboard. It is never committed.
-4. The live endpoints are `https://<app>.onrender.com/link-analysis` and `https://<app>.onrender.com/docs`.
+2. In Vercel, choose Add New → Project and import the repo. No build settings are needed.
+3. Under Settings → Environment Variables, add `GEMINI_API_KEY`. It is never committed.
+4. Deploy. The live endpoints are `https://<project>.vercel.app/link-analysis` and `https://<project>.vercel.app/docs`.
 
-Any Docker host works the same way, for example Railway, Fly.io or Google Cloud Run. The app reads `$PORT`.
+Serverless caveats: `maxDuration` is set to 60 s, since an analysis takes about 10 s. The response cache and rate limiter are in-memory, so they apply per function instance rather than globally. Use Redis or Vercel KV if you need shared state.
+
+### Docker / Render
+
+The app is also containerized (`Dockerfile`) and includes a `render.yaml` blueprint. In Render, choose New → Blueprint, select the repo and set `GEMINI_API_KEY`. Any Docker host works the same way, for example Railway, Fly.io or Google Cloud Run. The app reads `$PORT`.
 
 > **Live demo:** _add URL here after deploying_
 
